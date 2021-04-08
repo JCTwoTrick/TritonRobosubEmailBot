@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "robosub-automated-sponsorships",
+  "private_key_id": "3df1d7362ac90943bc97964f8bc26b5eae37a379",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDnuYe5Y1TdOcja\nAxd1S6fqyRALDMR4B0rn3ZL/D1ngTJGjxdFf/1eygO2u4Pfn7LZ5Z5HlzQQgB2a0\npv/OHAVM1MdQHlzwC0wO6aDq6Zba73QIS1jcWg0w44AfmKfqUZ6xOwQFFbzB7JoA\nxu75JGpbNleIxnQC1G3afZ3DivJYdLPK0C8XBRKjYHg7i+Np0qdcIKTWS1kZosvy\nfnwKX55N/V9Kk3zbvjvFFCuHcbTTAxOI5cSLJB5gN0tRM/0hOStTjgVjBqtQRNY+\nNqpx2ImATAw8kS3aHhFryVDcE46kG4StNfWfIMBZ9MQ7IOeaGbFyQMReg7wU0CH5\nzrQKtJLVAgMBAAECggEANJEG9AxPjRv1r1cyNB6kigNwi0ErNJta57yBAzFlTxev\nljpi4+cV6t2KjbhlJIyzXFkdZMccX3OuXd7ges4qeaJvUIKCzMWTTHK9WW0CFspp\nRRRqpRockfGZ+BD2TpaTbFsZ71leB5P336NBRO143xY1x0ZVvOqZvQ3wAxL7JQtt\nyp4D1eUuW7JAkFZ/kuhaGaKcVVFGi4ajgWq4fcnG8cVzqp01FKbtdVaDk+gGWCfr\nfq69Fn7c3nJQ9ON295OAvr8z0l9vv2tvLi/8oY+bvaSCT3sjEETs6hxm2X9Vaklq\nYtVz6RAeSIQfQaKLjKHkuqgmEOv+wPwAuFMgupZ0JQKBgQD7YNMRd7FWDxaQ+bB5\npnSL4rirT7LihyY0qVD1Fp0/k+MhbkA/OQdUx/ABZ3J0fhbMn2cXie/CgVojYm+J\ng9HPOgquCPckuwApfiXb8cyDR6dWT0MwtD6t0W9ODy9wsMTHT2pIu8zqtJUKzTZ7\nx+XPCy7MDq3IZ6/sN41gg1tyVwKBgQDr/DOXBTJK1JNA1t9J/Il/+9kAxr6OAtti\nBoSSkQTXX5unmn9uTMXHJUwZAHDcNyECNrg1p0TMDJzM4/au1NvySFDuLvBftEtc\n4FCJ3yUxnBSwWRt1Ook4ZiMZYGxbowN0k2/HtPSN0CyaoM1i3S5VYkkKzeFbTXn/\nKvf4kFVgswKBgQC90NQweXAoKsaAfHqcsWuKAY4ulcTfNuxLkZq3Jvdgfbxhjw3m\nb5qwkzUQ6ltLybZPlwJSjO7FscUtuPO+JBK25v4PgmeUjbxGmKHf3kruypl6G+oB\nielWeTISAHdzIZfFZJs+BslqZSex+1lryHsohyo0HdVt4ZW+ygfwW+AeiwKBgQCh\n3rscikn3Hl1rinhbbch7a6tsZudqzfbiBIqHZsYlXcWNb+KdLDg15BWQyMahp4cS\n16n/057TQIuF15DsV8IPLR+mYbgsTaWsLYnRKKmAoAlo9ZZqER7y+sx0qblqGiVS\nn5d7K1rcs8EEx+xaNlGD7AkiShqc4EYgi77QV2DZFQKBgD68nXlumLMi+oQp1QMu\n+j+jdJ/ACe0yQxcpmnu005MDPzwD2WorNf23nrYUngVG93Z7566l5a92seOlgBYW\niMknXm0uwv2hMDwgOBu5B+tI1uMrmAgE5L94dzUF+kW5HIqJrYZUhbYf1IYnItI4\nlBr5uOK0B9fsGt/hUbbqP3v0\n-----END PRIVATE KEY-----\n",
+  "client_email": "emailbot@robosub-automated-sponsorships.iam.gserviceaccount.com",
+  "client_id": "109196270683164466790",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/emailbot%40robosub-automated-sponsorships.iam.gserviceaccount.com"
+}
