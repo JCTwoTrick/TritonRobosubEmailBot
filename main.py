@@ -20,8 +20,8 @@ from email.message import EmailMessage
 # checks email for responses and updates spreadsheet
 # automated followup
 
-gc = gspread.service_account(filename='robosub-automated-sponsorships-3df1d7362ac9.json')
-sh = gc.open_by_key('1VHx5tWv1xxpUJna_QN5fmFDFtWselMU3lYpyRwv38Hw')
+gc = gspread.service_account(filename='FILENAME')
+sh = gc.open_by_key('KEY')
 worksheet = sh.sheet1
 res = worksheet.get_all_records()
 
@@ -31,7 +31,7 @@ df = pd.DataFrame(res)
 def send_email(receiver, message):
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.starttls()
-    server.login('robosub@ucsd.edu', 'W2e6r#$fZK')
+    server.login('robosub@ucsd.edu', 'PASSWORD')
 
     email = EmailMessage()
     email['From'] = 'robosub@ucsd.edu'
