@@ -31,10 +31,10 @@ df = pd.DataFrame(res)
 def send_email(receiver, message):
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.starttls()
-    server.login('robosub@ucsd.edu', 'PASSWORD')
+    server.login('EMAIL', 'PASSWORD')
 
     email = EmailMessage()
-    email['From'] = 'robosub@ucsd.edu'
+    email['From'] = 'EMAIL'
     email['To'] = receiver
     email['Subject'] = 'UCSD Triton Robosub Sponsorship Inquiry'
     email.set_content(message)
